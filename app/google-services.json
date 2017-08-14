@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "281281716842",
+    "firebase_url": "https://realm-f86db.firebaseio.com",
+    "project_id": "realm-f86db",
+    "storage_bucket": "realm-f86db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281281716842:android:b5fa0af3c3e741e9",
+        "android_client_info": {
+          "package_name": "imastudio.realm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281281716842-h20s9sko8q0uq2dl5c2bqf3end1fkm8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7q0HiNjd3OuO6n8ZBrRG09Ktbn9m-5CQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
